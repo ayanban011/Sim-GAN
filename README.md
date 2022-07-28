@@ -1,8 +1,6 @@
 # Codebase for "Missing value estimation of microarray data using Sim-GAN"
 
-Authors: Jinsung Yoon, James Jordon, Mihaela van der Schaar
-
-Paper: Pati, S.K., Gupta, M.K., Shai, R., Banerjee, A., Ghosh, A. Missing value estimation of microarray data using Sim-GAN. Knowl Inf Syst (2022). https://doi.org/10.1007/s10115-022-01718-0
+Authors: Ayan Banerjee, Souemn Kumar Pati, Manan Kumar Gupta, Rinita Shai, Arijit Ghosh
  
 Paper Link: https://link.springer.com/article/10.1007/s10115-022-01718-0
 
