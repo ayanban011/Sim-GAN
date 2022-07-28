@@ -1,6 +1,6 @@
 # Codebase for "Missing value estimation of microarray data using Sim-GAN"
 
-Authors: Ayan Banerjee, Souemn Kumar Pati, Manan Kumar Gupta, Rinita Shai, Arijit Ghosh
+Authors: Ayan Banerjee, Souemn Kumar Pati, Manan Kumar Gupta, [Rinita Shai](https://github.com/Rinita1503), [Arijit Ghosh](https://github.com/arijit-hub)
  
 Paper Link: https://link.springer.com/article/10.1007/s10115-022-01718-0
 
@@ -36,3 +36,10 @@ $ python3 main_letter_spam.py --data_name leukemia
 
 -   imputed_data_x: imputed data
 -   rmse: Root Mean Squared Error
+
+### Acknowledgement 
+Our project has adapted and borrowed the code structure from [GAIN](https://github.com/jsyoon0823/GAIN).
+
+### Conclusion
+Thank you and sorry for the bugs!
+
