@@ -1,4 +1,4 @@
-# Codebase for "Generative Adversarial Imputation Networks (GAIN)"
+# Codebase for "Missing value estimation of microarray data using Sim-GAN"
 
 Authors: Jinsung Yoon, James Jordon, Mihaela van der Schaar
 
