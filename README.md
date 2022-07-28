@@ -1,6 +1,6 @@
 # Codebase for "Missing value estimation of microarray data using Sim-GAN"
 
-Authors: Ayan Banerjee, Souemn Kumar Pati, Manan Kumar Gupta, [Rinita Shai](https://github.com/Rinita1503), [Arijit Ghosh](https://github.com/arijit-hub)
+Authors: [Ayan Banerjee](https://github.com/ayanban011), Souemn Kumar Pati, Manan Kumar Gupta, [Rinita Shai](https://github.com/Rinita1503), [Arijit Ghosh](https://github.com/arijit-hub)
  
 Paper Link: https://link.springer.com/article/10.1007/s10115-022-01718-0
 
